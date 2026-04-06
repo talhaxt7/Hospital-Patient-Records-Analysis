@@ -234,6 +234,6 @@ hospital-patient-records-analysis/
 
 ## 👤 Author
 
-**Syed Abdul Hannan (Aka)**  
-Data Analyst | Email Marketing Strategist | Growth Consultant  
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
+**Talha Talat**  
+Data Analyst | Masters Student AI & Data Science  
+[GitHub](https://github.com/talhaxt7) · [LinkedIn](https://www.linkedin.com/in/talha-talat-aa44b51a7/)
